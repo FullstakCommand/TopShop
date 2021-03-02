@@ -14,6 +14,7 @@ _______________________________________________________
     git remote add origin https://github.com/FullstakCommand/название_проекта.git
     git branch -M main
     git push -u origin main
+eugen.eisner@gmail.com
 
 Username for 'https://github.com': ******** Password for ******: *********
 
